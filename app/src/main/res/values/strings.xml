@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="phone_auth_msg">Enter Phone number to get OTP</string>
+    <string name="otp">OTP</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="err_msg">Please fill above details</string>
+
+    <string-array name="country_code_array">
+        <item>🇮🇳   +91</item>
+        <item>🇵🇰   +92</item>
+        <item>🇧🇭  +973</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

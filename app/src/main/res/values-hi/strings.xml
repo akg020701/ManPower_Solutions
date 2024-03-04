@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="phone_auth_msg">ओटीपी प्राप्त करने के लिए फ़ोन नंबर दर्ज करें</string>
+    <string name="otp">ओटीपी</string>
+    <string name="login">लॉग इन</string>
+    <string name="registration">पंजीकरण</string>
+    <string name="err_msg">कृपया उपरोक्त विवरण भरें</string>
+</resources>
